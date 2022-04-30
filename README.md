@@ -6,8 +6,19 @@
 
 <br/> <br> 
 
-## Reference Paper Reveiw
-<br/> <br>
+## Reference Paper
+:page_with_curl: Alex Krizhevsky, Ilya Sutskever, and Geoff Hinton. 
+Imagenet classification with deep convolutional neural networks. 
+In Advances in Neural Information Processing Systems 25, p1106–1114, 2012.
+<br>:page_with_curl: K. Simonyan and A. Zisserman. Very deep convolutional networks
+for large-scale image recognition. In ICLR, 2015.
+<br>:page_with_curl: C. Szegedy, W. Liu, Y. Jia, P. Sermanet, S. Reed, D. Anguelov, D. Erhan, V. 
+Vanhoucke, and A. Rabinovich. Going deeper with convolutions. In CVPR, 
+2014
+<br>:page_with_curl: K. He, X. Zhang, S. Ren, and J. Sun. (Microsoft Research) Deep residual 
+learning for image recognition. arXiv:1512.03385, 2015.
+
+<br/> <br> 
 
 ## Data Description
 코로나19 확진자, 폐렴 환자, 정상인 세 그룹의 흉부 X선 이미지 데이터로, train set 251개, test set 66개로 이루어져있다.
